@@ -1,0 +1,1 @@
+print ("This is %s and working for %s knows %d languages" %('Rahul','IBM',21))
