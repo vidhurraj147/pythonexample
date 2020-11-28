@@ -1,2 +1,2 @@
-def Isdn():
-   print ("I'm ISDN Phone")
+def IsdnImpl2():
+   print ("I'm IsdnImpl2 Phone")

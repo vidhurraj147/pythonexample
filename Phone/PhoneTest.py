@@ -1,5 +1,5 @@
 import Phone
 
-Phone.Pots()
-Phone.Isdn()
-Phone.G3()
+Phone.PotsImpl()
+Phone.IsdnImpl2()
+Phone.G3Implemented()

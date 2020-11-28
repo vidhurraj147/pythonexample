@@ -1,2 +1,2 @@
-def G3():
-   print ("I'm G3 Phone")
+def G3Implemented():
+   print ("I'm G3Implemented Phone")
